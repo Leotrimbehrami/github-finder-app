@@ -52,3 +52,4 @@ Die App sollte nun unter http://localhost:3000 verfügbar sein.
 
 ## Autor
 - Leotrim Behrami - [Github-Profil](https://github.com/Leotrimbehrami)
+

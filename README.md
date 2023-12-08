@@ -51,5 +51,5 @@ Die App sollte nun unter http://localhost:3000 verfügbar sein.
 - DaisyUI: Eine Erweiterung für Tailwind CSS, die vorgefertigte Komponenten und Klassen zur Verfügung stellt, um das Designprozess zu beschleunigen.
 
 ## Autor
-- Leotrim Behrami - [Github-Profil](https://github.com/Leotrimbehrami)
+- Leotrim Behrami  - [Github-Profil](https://github.com/Leotrimbehrami)
 

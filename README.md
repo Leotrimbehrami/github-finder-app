@@ -45,7 +45,7 @@ Die App sollte nun unter http://localhost:3000 verfügbar sein.
 
 ## Thechnologien
 
-- Vite: Ein schnelles Entwicklungs-Tool für moderne Webanwendungen.
+- Vite: Ein schnelles  Entwicklungs-Tool für moderne Webanwendungen.
 - React: Eine JavaScript-Bibliothek für den Aufbau von Benutzeroberflächen.
 - Tailwind CSS: Ein Utility-First CSS-Framework für die Gestaltung von Benutzeroberflächen.
 - DaisyUI: Eine Erweiterung für Tailwind CSS, die vorgefertigte Komponenten und Klassen zur Verfügung stellt, um das Designprozess zu beschleunigen.
